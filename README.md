@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yakovgavryushov
 - 👀 I’m interested in backend
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, node.js
 
 - 📫 How to reach me? My telegram is @yashathewavy
 

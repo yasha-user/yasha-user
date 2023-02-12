@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yakovgavryushov
-- 👀 I’m interested in ...
+- 👀 I’m interested in backend
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me? My telegram is @yashathewavy
 
 <!---

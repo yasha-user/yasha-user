@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend
 - 🌱 I’m currently learning Javascript, express.js
 
-- 📫 How to reach me? My telegram is @yasha-tester
+- 📫 How to reach me? My telegram is @yasha_tester
 
 <!---
 yasha-tester/yasha-tester is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

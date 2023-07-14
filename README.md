@@ -1,7 +1,7 @@
 
 <h1>Greetings and welcome</h1>
 <br>
-<h3>My fullname is Yakov Gavryushov Denisovich, so you can call me</h3>
+<h3>My fullname is Yakov Gavryushov Denisovich, but you can call me</h3>
 <h1>⚡⚡ &nbsp yasha-tester! &nbsp &nbsp 🏌️‍♂️✨</h1>
 <br>
 

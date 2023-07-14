@@ -5,20 +5,20 @@
 <h1>⚡⚡ &nbsp yasha-tester! &nbsp &nbsp 🏌️‍♂️✨</h1>
 <br>
 
-
-### Hi there 👋, my name is Yasha
 #### I am backend and frontend developer
 - 🌍 I'm based in Krasnodar, Russia ☔🔥🕑
+- 📢 I'm speaking preferably english 🖋🏄‍♂️💧
 - 💧🔭 I’m currently working on javascript projects     🔮📦📦
 - 👀🏀 I’m interested in backend development 👁👁💻🏹🎯⚡
-- 🐱‍👤🐱‍👤 I’m currently learning backend and frontend development 🏀🥇🔗🏌️‍♂️🏌️‍♀️
-- 👋📢 My nickname is @yasha-tester 👾🤖🐬🐬🦈
-- 📦🖊 My email is hemimoneycash@gmail.com and telegram is @yasha_tester 🎇
+- 📦🖊 My email is hemimoneycash@gmail.com and telegram is @yasha_tester 👾🐬🐬🦈🤖
 
+<!--- - 🐱‍👤🐱‍👤 I’m currently learning backend and frontend development 🏀🥇🔗🏌️‍♂️🏌️‍♀️ --->
 <br>
 
-# 🧰  Languages and Tools im familiar with 🧰
-<br>
+<div>
+ 
+<h3>  Languages and Tools:</h3>
+
  MAIN SKILLS: JS / NODE / EXPRESS / HTML / CSS 
 <br> <br>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -29,8 +29,8 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="handlebars.js" width="30px" style="padding-right:10px;" src="https://handlebarsjs.com/images/handlebars_logo.png" />
-
 <br><br>
+
 
 <img align="left" alt="bootstrap.js" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <img align="left" alt="docker" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
@@ -41,9 +41,14 @@
 <img align="left" alt="postman" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="sass" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
 
+
+</div>
+
+
 <br> <br> <br> 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasha-tester&layout=compact)
 
 <br>
 <!---
@@ -51,9 +56,13 @@
 - ✨📣⚖🖥🖋⏰⏲
 - 🥚🥚🧀🧀🥗🥙🥩
 - 🥩🥕🥕🥔🥔💧
-- 💥💦🐤🦢🕊
+- 💥💦🐤🦢🕊👋
 --->
 
+# Github activity statistics
+
+<br>
+<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yasha-tester)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -61,14 +70,11 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/yasha-tester)  
 
-<br><br>
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasha-tester&layout=compact)
-<br>
-<br>
-<br>
 ![yasha-tester's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasha-tester&theme=graywhite)
-<br>
+
+<br><br>
 
 
 

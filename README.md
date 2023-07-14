@@ -6,7 +6,7 @@
 <br>
 
 - 👋📢 I’m @yasha-tester 👾🤖🐬🐬🦈
-- 👀🏀 I’m interested in backend 👁👁💻⚡🏹🎯
+- 👀🏀 I’m interested in backend and also frontend development 👁👁💻⚡🏹🎯
 - 🐱‍👤🐱‍👤 I’m currently learning and building projects in Javascript and its derivatives 🏀🥇🔗🏌️‍♂️🏌️‍♀️
 - 📫🐳 How to reach me? My telegram is @yasha_tester, my mail is hemimoneycash@gmail.com 🔮📦📦🖊🎇
 

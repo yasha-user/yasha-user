@@ -8,12 +8,12 @@
 
 ### Hi there 👋, my name is Yasha
 #### I am backend and frontend developer
-
-- 👋📢 I’m @yasha-tester 👾🤖🐬🐬🦈
-- 👀🏀 I’m interested in backend and also frontend development 👁👁💻⚡🏹🎯
+- 🌍 I'm based in Krasnodar, Russia ☔🔥🕑
 - 💧🔭 I’m currently working on javascript projects     🔮📦📦
+- 👀🏀 I’m interested in backend development 👁👁💻🏹🎯⚡
 - 🐱‍👤🐱‍👤 I’m currently learning backend and frontend development 🏀🥇🔗🏌️‍♂️🏌️‍♀️
-- 📦🖊 Need contact info? My email is hemimoneycash@gmail.com 🎇
+- 👋📢 My nickname is @yasha-tester 👾🤖🐬🐬🦈
+- 📦🖊 My email is hemimoneycash@gmail.com and telegram is @yasha_tester 🎇
 
 <br>
 
@@ -50,8 +50,8 @@
 - 🏄‍♂️🏄‍♂️🏄‍♀️🏄‍♀️🏌️‍♂️🏌️‍♀️💎
 - ✨📣⚖🖥🖋⏰⏲
 - 🥚🥚🧀🧀🥗🥙🥩
-- 🥩🥕🥕🥔🥔🔥💧
-- ☔💥💦🕑🐤🦢🕊
+- 🥩🥕🥕🥔🥔💧
+- 💥💦🐤🦢🕊
 --->
 
 
@@ -64,6 +64,8 @@
 <br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasha-tester&layout=compact)
+<br>
+<br>
 <br>
 ![yasha-tester's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasha-tester&theme=graywhite)
 <br>

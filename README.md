@@ -13,6 +13,16 @@
 - 📦🖊 My email is hemimoneycash@gmail.com and telegram is @yasha_tester 👾🐬🐬🦈🤖
 
 <!--- - 🐱‍👤🐱‍👤 I’m currently learning backend and frontend development 🏀🥇🔗🏌️‍♂️🏌️‍♀️ --->
+
+<h3>About me</h3>
+ I'm a 21 yo. web developer working mostly in Javascript and its frameworks. I strive to make products im working on highly intuitive, good-loking and scalable. 
+I follow principles of clean code, strive to make design straightforward, laconic, and engage in building important functionality and learning new technologies.
+I apreciate communication of great quality and improve my skills. 
+I'm free to contact and ready to cooperate. My contacts are displayed in this Readme file and in the list of links under my github avatar. My repositories are available under this Readme file.
+
+
+
+
 <br>
 
 <div>

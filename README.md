@@ -8,7 +8,7 @@
 #### I am backend and frontend developer
 - 🌍 I'm based in Krasnodar, Russia ☔🔥🕑
 - 📢 I'm speaking preferably english 🖋🏄‍♂️💧
-- 💧🔭 I’m currently working on express.js projects with databases     🔮📦📦
+- 💧🔭 I'm currently working on a project outside of github 🕑🕑
 - 👀🏀 I’m interested in backend development 👁👁💻🏹🎯⚡
 - 📦🖊 My email is hemimoneycash@gmail.com and telegram is @yasha_tester 👾🐬🐬🦈🤖
 
@@ -83,6 +83,9 @@ I'm free to contact and ready to cooperate. My contacts are displayed in this Re
 <br>
 
 ![yasha-tester's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasha-tester&theme=graywhite)
+
+
+<!-- - 💧🔭 I’m currently working on express.js projects with databases     🔮📦📦 -->
 
 <br><br>
 

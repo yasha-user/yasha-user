@@ -11,7 +11,7 @@
 - 💧🔭 I'm currently learning and node.js, react and databases 🕑🕑
 - 👀🏀 I’m interested in backend development 👁👁💻🏹🎯⚡
 - 📦🖊 My email is hemimoneycash@gmail.com and telegram is @yasha_tester 👾🐬🐬🦈🤖
-- 📣⚖ For some reason commits for some projects im working on aren't displayed in my profile activity, but im mostly consistent with my activity ⏰⏲
+- 📣⚖ For some reason (i think its because im pushing not to main branch) commits for some projects im working on aren't displayed in my profile activity, but im mostly consistent with my activity ⏰⏲
 
 <!--- - 🐱‍👤🐱‍👤 I’m currently learning backend and frontend development 🏀🥇🔗🏌️‍♂️🏌️‍♀️ --->
 

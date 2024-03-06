@@ -8,7 +8,7 @@
 #### I am backend and frontend developer
 - 🌍 I'm based in Krasnodar, Russia ☔🔥🕑
 - 📢 I'm speaking preferably english 🖋🏄‍♂️💧
-- 💧🔭 I'm currently learning and node.js, react and databases 🕑🕑
+- 💧🔭 I'm currently learning Java and databases and rarely commit anything, because Java is yet too new to me 🕑🕑
 - 👀🏀 I’m interested in backend development 👁👁💻🏹🎯⚡
 - 📦🖊 My email is hemimoneycash@gmail.com and telegram is @yasha_tester 👾🐬🐬🦈🤖
 - 📣⚖ Some projects im working on aren't displayed in my profile activity (as i commit not only to the main branch), but im mostly consistent with my activity ⏰⏲

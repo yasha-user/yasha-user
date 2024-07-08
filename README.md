@@ -8,18 +8,18 @@
 #### I am backend and frontend developer
 - 🌍 I'm based in Krasnodar, Russia ☔🔥🕑
 - 📢 I'm speaking preferably english 🖋🏄‍♂️💧
-- 💧🔭 I'm currently learning Java and databases and rarely commit anything, because Java is yet too new to me 🕑🕑
-- 👀🏀 I’m interested in backend development 👁👁💻🏹🎯⚡
+- 💧🔭 I'm currently learning Java and React 🕑🕑
+- 👀🏀 I’m more interested in backend development, but i can be helpful on frontend side too 👁👁💻🏹🎯⚡
 - 📦🖊 My email is hemimoneycash@gmail.com and telegram is @yasha_tester 👾🐬🐬🦈🤖
 - 📣⚖ Some projects im working on aren't displayed in my profile activity (as i commit not only to the main branch), but im mostly consistent with my activity ⏰⏲
 
 <!--- - 🐱‍👤🐱‍👤 I’m currently learning backend and frontend development 🏀🥇🔗🏌️‍♂️🏌️‍♀️ --->
 
 <h3>About me</h3>
- I'm a 21 yo. web developer working mostly in Javascript and its frameworks. I strive to make products im working on highly intuitive, good-loking and scalable. 
+ I'm a 22 yo. web developer working mostly in Javascript (React, Vite, Express), SQL (MySQL or Postgres) and Java (with JSP). I strive to make products im working on highly intuitive, good-loking and scalable. 
 I follow principles of clean code, strive to make design straightforward, laconic, and engage in building important functionality and learning new technologies.
 I apreciate communication of great quality and improve my skills. 
-I'm free to contact and ready to cooperate. My contacts are displayed in this Readme file and in the list of links under my github avatar. My repositories are available under this Readme file.
+I'm free to contact and ready to cooperate. My contacts are displayed in this README file and in the list of links under my github avatar. My repositories are available under this README file.
 
 
 
@@ -30,16 +30,18 @@ I'm free to contact and ready to cooperate. My contacts are displayed in this Re
  
 <h3>  Languages and Tools:</h3>
 
- MAIN SKILLS: JS / NODE / EXPRESS / HTML / CSS 
+ MAIN SKILLS: JS / REACT / EXPRESS / JAVA / MYSQL / POSTGRES / HTML / CSS 
 <br> <br>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="handlebars.js" width="30px" style="padding-right:10px;" src="https://handlebarsjs.com/images/handlebars_logo.png" />
+
 <br><br>
 
 

@@ -61,7 +61,7 @@ I'm free to contact and ready to cooperate. My contacts are displayed in this RE
 <br> <br> <br> 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasha-tester&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasha-user&layout=compact)
 
 <br>
 <!---
@@ -77,15 +77,15 @@ I'm free to contact and ready to cooperate. My contacts are displayed in this RE
 <br>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yasha-tester)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yasha-user)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
-![GitHub metrics](https://metrics.lecoq.io/yasha-tester)  
+![GitHub metrics](https://metrics.lecoq.io/yasha-user)  
 
 <br>
 
-![yasha-tester's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasha-tester&theme=graywhite)
+![yasha-tester's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasha-user&theme=graywhite)
 
 
 <!-- - 💧🔭 I’m currently working on express.js projects with databases     🔮📦📦 -->
@@ -95,6 +95,6 @@ I'm free to contact and ready to cooperate. My contacts are displayed in this RE
 
 
 <!---
-yasha-tester/yasha-tester is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+yasha-user/yasha-user is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

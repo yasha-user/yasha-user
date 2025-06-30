@@ -5,23 +5,28 @@
 <h1>⚡⚡ &nbsp yasha-user! &nbsp &nbsp 🏌️‍♂️✨</h1>
 <br>
 
-#### I am backend and frontend developer
+#### I am devOps and a little bit webDev
 - 🌍 I'm based in Krasnodar, Russia ☔🔥🕑
-- 📢 I'm speaking preferably english 🖋🏄‍♂️💧
-- 💧🔭 I'm currently learning Java and React 🕑🕑
+- 📢 I'm speaking preferably english, also russian 🖋🏄‍♂️💧
+- 💧🔭 I'm currently learning DevOps 🕑🕑
 - 👀🏀 I’m more interested in backend development, but i can be helpful on frontend side too 👁👁💻🏹🎯⚡
-- 📦🖊 My email is hemimoneycash@gmail.com and telegram is @yasha_tester 👾🐬🐬🦈🤖
-- 📣⚖ Some projects im working on aren't displayed in my profile activity (as i commit not only to the main branch), but im mostly consistent with my activity ⏰⏲
+- 📦🖊 My email is hemimoneycash@gmail.com and telegram is @yasha_user 👾🐬🐬🦈🤖
+- 📣⚖ Some projects im working on aren't displayed in my profile activity ⏰⏲
 
 <!--- - 🐱‍👤🐱‍👤 I’m currently learning backend and frontend development 🏀🥇🔗🏌️‍♂️🏌️‍♀️ --->
 
 <h3>About me</h3>
- I'm a 22 yo. web developer working mostly in Javascript (React, Vite, Express), SQL (MySQL or Postgres) and Java (with JSP). I strive to make products im working on highly intuitive, good-loking and scalable. 
-I follow principles of clean code, strive to make design straightforward, laconic, and engage in building important functionality and learning new technologies.
-I apreciate communication of great quality and improve my skills. 
-I'm free to contact and ready to cooperate. My contacts are displayed in this README file and in the list of links under my github avatar. My repositories are available under this README file.
+
+I'm a 23 yo. Linux user with an OrangePi home server. I run Mint with i3wm on my main machine and use vim as my text-editor.
+
+I'm interested in Linux, DevOps and CyberSec.
+
+I like to write Reasonable and maintainable code and therefore i rarely use AI. It has it's usecases and it helps me but its better to understand the code and its structure with its ups and downs and direct it yourself instead of collecting layers of AI solutions on top of each other.
+
+I have some experience (about a year) in freelance webdev. As a web developer im working mostly in Javascript (React, Vite, Express) and SQL (MySQL or Postgres). I like clean code, straightforward design and solid functionality.
 
 
+I'm free to contact and ready to cooperate. My contacts are in this README file and in the list of links under my github avatar. My repositories are available under this README file.
 
 
 <br>
@@ -30,7 +35,7 @@ I'm free to contact and ready to cooperate. My contacts are displayed in this RE
  
 <h3>  Languages and Tools:</h3>
 
- MAIN SKILLS: JS / REACT / EXPRESS / JAVA / MYSQL / POSTGRES / HTML / CSS 
+ MAIN SKILLS: LINUX / BASH / DOCKER / JS / REACT / EXPRESS / JAVA / MYSQL / POSTGRES / HTML / CSS
 <br> <br>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -40,7 +45,7 @@ I'm free to contact and ready to cooperate. My contacts are displayed in this RE
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="handlebars.js" width="30px" style="padding-right:10px;" src="https://handlebarsjs.com/images/handlebars_logo.png" />
+
 
 <br><br>
 

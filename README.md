@@ -9,7 +9,7 @@
 - 🌍 I'm based in Krasnodar, Russia ☔🔥🕑
 - 📢 I'm speaking preferably english, also russian 🖋🏄‍♂️💧
 - 💧🔭 I'm currently learning DevOps 🕑🕑
-- 👀🏀 I’m more interested in backend development, but i can be helpful on frontend side too 👁👁💻🏹🎯⚡
+- 👀🏀 I’m more interested in backend development, but i can be helpful on frontend side too 👁👁💻🎯
 - 📦🖊 My email is hemimoneycash@gmail.com and telegram is @yasha_user 👾🐬🐬🦈🤖
 - 📣⚖ Some projects im working on aren't displayed in my profile activity ⏰⏲
 

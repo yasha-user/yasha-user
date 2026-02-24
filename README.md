@@ -2,32 +2,33 @@
 <h1>Greetings and welcome</h1>
 <br>
 <h3>My fullname is Yakov Gavryushov Denisovich, but you can call me</h3>
-<h1>⚡⚡ &nbsp yasha-user! &nbsp &nbsp 🏌️‍♂️✨</h1>
+<h1>⚡⚡ &nbsp yasha-user  ! &nbsp &nbsp 🏌️‍♂️✨</h1>
 <br>
 
-#### I am devOps and a little bit webDev
-- 🌍 I'm based in Krasnodar, Russia ☔🔥🕑
-- 📢 I'm speaking preferably english, also russian 🖋🏄‍♂️💧
-- 💧🔭 I'm currently learning DevOps 🕑🕑
-- 👀🏀 I’m more interested in backend development, but i can be helpful on frontend side too 👁👁💻🎯
-- 📦🖊 My email is hemimoneycash@gmail.com and telegram is @yasha_user 👾🐬🐬🦈🤖
-- 📣⚖ Some projects im working on aren't displayed in my profile activity ⏰⏲
-
-<!--- - 🐱‍👤🐱‍👤 I’m currently learning backend and frontend development 🏀🥇🔗🏌️‍♂️🏌️‍♀️ --->
+#### I am selftaught developer
+- 🌍 I live in Krasnodar, Russia 
+-  Speak english, also russian 🖋
+-  Now figuring out Linux and DevOps 💧
+- 📦 My email is hemimoneycash@gmail.com and telegram is @yasha_user 👾
 
 <h3>About me</h3>
 
-I'm a 23 yo. Linux user with an OrangePi home server. I run Mint with i3wm on my main machine and use vim as my text-editor.
+I'm a 23 yo. Linux enjoyer.
 
-I'm interested in Linux, DevOps and CyberSec.
+I have programming as a hobby and interested in Linux, Devops, Low-tech and sometimes WebDev. 
 
-I like to write Reasonable and maintainable code and therefore i rarely use AI. It has it's usecases and it helps me but its better to understand the code and its structure with its ups and downs and direct it yourself instead of collecting layers of AI solutions on top of each other.
+My homelab is 2-3 servers in proccess on Proxmox and long-working OrangePi syncthing server. 
 
-I have some experience (about a year) in freelance webdev. As a web developer im working mostly in Javascript (React, Vite, Express) and SQL (MySQL or Postgres). I like clean code, straightforward design and solid functionality.
+I run Mint with i3wm on main working machine and use nvim a my text-editor. 
+
+First of all i like to write code myself and also understand and maintain what im doing so therefore i rarely like AI. 
+
+I also like low-tech and open source programs and sites when its reasonable. And i have wishes to write without react/express, using just css/html and some lightweight/low-bloated backend.
+
+I have some experience (about a year) in freelance webdev. As a web developer working mostly in Javascript (React, Vite, Express) and SQL (MySQL or Postgres). 
 
 
-I'm free to contact and ready to cooperate. My contacts are in this README file and in the list of links under my github avatar. My repositories are available under this README file.
-
+Free to contact and ready to cooperate.
 
 <br>
 

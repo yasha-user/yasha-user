@@ -15,7 +15,7 @@
 
 I'm a 23 yo. Linux enjoyer, have programming as a hobby with interests in Linux, Devops, and low-tech WebDev. 
 
-My homelab is OrangePi syncthing server and Proxmox selfhost in slow-going proccess. 
+My homelab is OrangePi syncthing server and Proxmox for selfhost that's in proccess. 
 
 First of all i like to write, understand and maintain the code myself so therefore i rarely use AI. 
 

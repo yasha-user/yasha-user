@@ -17,7 +17,7 @@ I'm a 23 yo. Linux enjoyer, have programming as a hobby with interests in Linux,
 
 My homelab is OrangePi syncthing server and Proxmox selfhost in slow-going proccess. 
 
-First of all i like to write, understand and maintain the code myself so therefore i rarely like AI. 
+First of all i like to write, understand and maintain the code myself so therefore i rarely use AI. 
 
 I have some experience (about a year) in freelance webdev working mostly in Javascript (React, Vite, Express) and SQL (MySQL or Postgres). Its what it started from, but now my text-editor is Neovim and i wish to write with just html/css and some unbloated backend.
 

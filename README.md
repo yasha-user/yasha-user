@@ -19,7 +19,7 @@ My homelab is OrangePi syncthing server and Proxmox for selfhost that's in procc
 
 First of all i like to write, understand and maintain the code myself so therefore i rarely use AI. 
 
-I have some experience (about a year) in freelance webdev working mostly in Javascript (React, Vite, Express) and SQL (MySQL or Postgres). Its what it started from, but now my text-editor is Neovim and i wish to write with just html/css and some unbloated backend.
+I have some experience (about a year) in freelance webdev working mostly in Javascript (React, Vite, Express) and SQL (MySQL or Postgres). Its what it started from, but now my text-editor is Neovim and i wish to write webdev with just html/css and some unbloated backend.
 
 Free to contact and ready to cooperate.
 

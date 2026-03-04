@@ -21,6 +21,8 @@ First of all i like to write, understand and maintain the code myself so therefo
 
 I have some experience (about a year) in freelance webdev working mostly in Javascript (React, Vite, Express) and SQL (MySQL or Postgres). Its what it started from, but now my text-editor is Neovim and i wish to write webdev with just html/css and some unbloated backend.
 
+Here is my lightweight website https://yasha-user.github.io/.
+
 Free to contact and ready to cooperate.
 
 <br>
